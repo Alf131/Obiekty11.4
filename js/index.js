@@ -15,3 +15,5 @@ Phone.prototype.printInfo = function() {
  Phone.prototype.printPhoto = function() {
  	$("body").append(this.photo);
  }
+iPhone6S.printInfo();
+iPhone6S.printPhoto();
